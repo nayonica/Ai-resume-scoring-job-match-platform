@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Scoring & Job Match Platform",
+  "description": "An AI-powered system designed to parse resumes, detect skills, compute ATS scoring, and match candidates to target roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
